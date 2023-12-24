@@ -9,3 +9,5 @@
 ## So, where is it compatible?
 LWP Will run in Windows XP/Vista/7/8/8.1/10/11 32 and 64 bit architecture, will need [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21) or newer.
 
+## Used
+[NAudio](https://github.com/naudio/NAudio)
